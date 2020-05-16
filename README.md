@@ -16,3 +16,8 @@ Selina Wu          (zhenweiwu33@gmail.com)<br>
 * Citybike Data (2020) [link]
 * Subway Data   (?)
 * Covid19 by zipcode   [link](https://github.com/nychealth/coronavirus-data)
+
+## Demo
+<p align="center">
+<img src="https://github.com/SelinaWu/COVID_Zipcode_NYC/blob/master/demo/covid_map(interactive).gif" width="48%" height="48%" />
+</p> 
