@@ -14,7 +14,7 @@ Selina Wu          (zhenweiwu33@gmail.com)<br>
 
 * Census Bureau (2018) [link] 
 * Citybike Data (2020) [link](https://s3.amazonaws.com/tripdata/index.html)
-* Subway Data   (?)
+* Subway Data   (2013-2018)
 * Covid19 by zipcode   [link](https://github.com/nychealth/coronavirus-data)
 
 ## Demo
